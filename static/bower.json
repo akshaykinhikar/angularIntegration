@@ -1,0 +1,17 @@
+{
+  "name": "angular_integration",
+  "homepage": "https://github.com/akshaykinhikar/angularIntegration",
+  "authors": [
+    "akshay <kinhikar.akshay32@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
